@@ -10,3 +10,4 @@
 | CO2 | Implement decision making, looping constructs and functions  |
 | CO3 | Design modules and packages - built in and user defined packages  |
 | CO4 | Implement object-oriented programming and exception handling.  |
+| CO5 | Create files and form regular expressions for effective search operations on strings and files  |
